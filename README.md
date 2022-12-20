@@ -54,5 +54,5 @@ I enjoyed building this project, and the best things that I have learned are:
 ## Author
 
 - GitHub - [@MoisalexWeb](https://github.com/MoisalexWeb)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Instagram - [@moisalex_sw](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@MoisalexWeb](https://www.frontendmentor.io/profile/MoisalexWeb)
+- Instagram - [@moisalex_sw](https://www.instagram.com/moisalex_sw/)
